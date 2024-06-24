@@ -28,30 +28,24 @@ I am currently pursuing my bachelor's at IIIT Dharwad, India. I am really passio
 
 ### Programming Languages
 - C++
-- Dart
-- JavaScript
 - Python
-
+- JavaScript
+- Dart
 
 ### Web Technologies
 
-- React.js
-- Next.js
-- Three.js
-- Node.js
-- HTML, CSS
-- MongoDB
+- NestJS
+- Django
+- NodeJS/ExpressJS
 
 ### Application Development
 
 - Flutter
-- BLoC, GetX, Riverpod and Provider (Architectures)
-- Kotlin (sort of)
 
 ### Other Skills
 
-- Photoshop, Illustrator, Figma
-- Postman API, GraphQL
+- Adobe Photoshop
+- Postman
 - Git Actions
 - Docker
 - AWS and GCP
@@ -64,11 +58,7 @@ I am currently pursuing my bachelor's at IIIT Dharwad, India. I am really passio
 | Hindi         | Fluent/Excellent                                                          |
 | Gujarati      | Native language                                                           |
 
-## What I'm currently learning 📚
 
-- Developing [Chip8 interpreter](https://github.com/imperialrogers/CHIP-8/) in C++
-- Learning Web Development
-- ML's blazing-fastness
 
 <!-- ## My own dictionary 📕:
 
